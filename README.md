@@ -1,5 +1,5 @@
 - Hi👋, I am Paras
-- 🔭 I’m currently working on Angular, updating my readme
+- 🔭 I’m currently working on Angular, updating my github profile
 - 🌱 I’m currently learning MEAN Stack
 <h3 align="left">Connect with me:</h3>
 <p align="left">
